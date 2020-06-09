@@ -10,5 +10,5 @@ void setup() {
 
 }
 void draw() {
-    
+    PImage pepperoni = loadImage(pepperoni.png);
 }
